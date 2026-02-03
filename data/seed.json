@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Campus Spring Festival 2025",
+    "source": { "name": "Campus Bulletin" },
+    "publishedAt": "2025-01-15T10:30:00Z",
+    "url": "https://example.com/spring-festival",
+    "summary": "Join us for the annual spring festival featuring food trucks, live music, and student performances.",
+    "tags": ["campus", "events", "festival"]
+  },
+  {
+    "title": "New Library Hours for Exam Period",
+    "source": { "name": "Library Services" },
+    "publishedAt": "2025-01-20T08:00:00Z",
+    "url": "https://example.com/library-hours",
+    "summary": "The library will extend hours during the exam period from February 1-15.",
+    "tags": ["library", "exams", "services"]
+  },
+  {
+    "title": "Research Grant Application Deadline",
+    "source": { "name": "Research Office" },
+    "publishedAt": "2025-01-18T14:00:00Z",
+    "url": "https://example.com/research-grants",
+    "summary": "Applications for undergraduate research grants are due by March 1st.",
+    "tags": ["research", "funding", "deadline"]
+  },
+  {
+    "title": "Student Mental Health Workshop",
+    "source": { "name": "Student Services" },
+    "publishedAt": "2025-01-22T09:00:00Z",
+    "url": "https://example.com/mental-health",
+    "summary": "Free workshop on stress management and mental wellness strategies.",
+    "tags": ["wellness", "workshop", "students"]
+  },
+  {
+    "title": "Career Fair Spring 2025",
+    "source": { "name": "Career Center" },
+    "publishedAt": "2025-01-25T11:00:00Z",
+    "url": "https://example.com/career-fair",
+    "summary": "Meet with top employers looking to hire interns and graduates.",
+    "tags": ["career", "employment", "fair"]
+  }
+]
